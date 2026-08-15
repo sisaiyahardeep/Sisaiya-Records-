@@ -1,0 +1,8 @@
+{
+  "name": "Sisaiya Records Digital Media",
+  "description": "An India-based independent music label and digital media company helping artists take their music from creation to audiences around the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
